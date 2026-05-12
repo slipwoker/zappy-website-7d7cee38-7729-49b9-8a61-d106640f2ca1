@@ -1,0 +1,100 @@
+# BBQ Grill — Generative Engine Optimization Map
+
+> BBQ Grill (www.bbq-grill.co.il) is an Israeli online store specializing in BBQ grills and related equipment. The user wants a complete visual redesign with a bold, eye-catching aesthetic featuring fade/blur effects, 3D scroll-based animations and objects, and an overall premium immersive shopping experience that showcases all existing products in a dramatically improved layout.
+
+---
+
+## Pages
+
+### בית
+https://bbq-grill-7d7cee38.zappy5.app
+BBQ Grill (www.bbq-grill.co.il) is an Israeli online store specializing in BBQ grills and related equipment. The user wants a complete visual redesign with a bo
+
+### ניסיון
+https://bbq-grill-7d7cee38.zappy5.app/experience
+ניסיון | BBQ Grill. pit boss pellet grill
+
+### אודות
+https://bbq-grill-7d7cee38.zappy5.app/about
+אודות | BBQ Grill. pit boss pellet grill
+
+### צור קשר
+https://bbq-grill-7d7cee38.zappy5.app/contact
+צור קשר | BBQ Grill. pit boss pellet grill
+
+### Products
+https://bbq-grill-7d7cee38.zappy5.app/products
+המוצרים שלנו - BBQ Grill
+
+### Cart
+https://bbq-grill-7d7cee38.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://bbq-grill-7d7cee38.zappy5.app/checkout
+תשלום
+
+### Login
+https://bbq-grill-7d7cee38.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://bbq-grill-7d7cee38.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://bbq-grill-7d7cee38.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://bbq-grill-7d7cee38.zappy5.app/product/:slug
+פרטי המוצר - BBQ Grill
+
+### Category
+https://bbq-grill-7d7cee38.zappy5.app/category/:slug
+מוצרים - BBQ Grill
+
+## Legal & Policy
+
+### Privacy Policy
+https://bbq-grill-7d7cee38.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://bbq-grill-7d7cee38.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://bbq-grill-7d7cee38.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About BBQ Grill
+BBQ Grill (www.bbq-grill.co.il) is an Israeli online store specializing in BBQ grills and related equipment. The user wants a complete visual redesign with a bold, eye-catching aesthetic featuring fade/blur effects, 3D scroll-based animations and objects, and an overall premium immersive shopping experience that showcases all existing products in a dramatically improved layout.
+
+## Target Audience
+- שפים מקצועיים
+- חובבי גריל
+- מארחים ביתיים
+
+## Industry
+ציוד מנגל וגריל
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://bbq-grill-7d7cee38.zappy5.app/sitemap.xml
+- Robots: https://bbq-grill-7d7cee38.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://bbq-grill-7d7cee38.zappy5.app/llms-full.txt
+- Products (JSON): https://bbq-grill-7d7cee38.zappy5.app/products.json
+- Products (Google Merchant RSS): https://bbq-grill-7d7cee38.zappy5.app/product-feed.xml
